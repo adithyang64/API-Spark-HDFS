@@ -9,7 +9,7 @@ The Docker image used in this project includes the following components:
 
 Hadoop v3.2.1 || Spark v2.4.4 || Conda 3 with Python v3.7
 
-Pull the docker image     [Credits: ![Avnish Yadav](https://github.com/avnyadav?tab=repositories)]
+Pull the docker image     [Credits: [Avnish Yadav](https://github.com/avnyadav?tab=repositories)]
 ```
 docker pull avnish327030/spark-hadoop-airflow
 ```
