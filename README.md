@@ -23,3 +23,5 @@ Run the docker image
 ```
 docker run -it -p 9870:9870 -p 8088:8088 -p 8080:8080 -p 18080:18080 -p 9000:9000 -p 8888:8888 -p 9864:9864 -p 8085:8085 -p 8793:8793 -p 8081:8081 -v D:\project\spark_etl_airflow-main\notebook:/root/ipynb -v D:\project\spark_etl_airflow-main\airflow:/home/airflow -v <**YOUR_PATH**>\data:/data avnish327030/spark-hadoop-airflow
 ```
+
+[Refer the Link for collection of screenshots captured during the project execution](https://docs.google.com/document/d/1U03BaO-wKUAcH9hqD_92SkfWcymKIXEU/edit?usp=drive_link&ouid=102047065766224889946&rtpof=true&sd=true)
